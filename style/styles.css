@@ -59,6 +59,10 @@ main > div {
     box-sizing: border-box;
 }
 
+#main-left-content {
+    text-align: justify;
+}
+
 #main-right-content {
     padding-left: 80px;
 }
